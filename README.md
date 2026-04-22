@@ -1,7 +1,7 @@
 # ML Reading Path — Toward Multimodal & Video Understanding
 
 > A structured reading log tracking my learning journey toward research in multimodal learning, video understanding, and ML systems efficiency.  
-> Started: [Month, Year] | Target Lab: PALM Lab, Brown University
+> Started: 04/18/2026 | Target Lab: PALM Lab, Brown University
 
 ---
 
@@ -27,7 +27,7 @@
 | Track 1 — Multimodal Foundations | 8 | 0 | 🔜 Not started |
 | Track 2 — Video Understanding | 8 | 0 | 🔜 Not started |
 | Track 3 — ML Systems | 6 | 0 | 🔜 Not started |
-| Chen Sun / PALM Lab Papers | 6+ | 0 | 🔜 Not started |
+| PALM Lab Papers | 6+ | 0 | 🔜 Not started | 
 
 ---
 
@@ -80,7 +80,7 @@
 |---|---|---|---|---|---|---|
 | VideoCLIP: Contrastive Pre-training for Zero-shot Video-Text Understanding | Xu et al. | EMNLP | 2021 | [Paper](https://arxiv.org/abs/2109.14084) | ⬜ Unread | |
 | InternVideo: General Video Foundation Models via Generative and Discriminative Learning | Wang et al. | arXiv | 2022 | [Paper](https://arxiv.org/abs/2212.03191) | ⬜ Unread | |
-| [Add Chen Sun video paper] | Chen Sun et al. | | | | ⬜ Unread | |
+| PALM Lab | Chen Sun et al. | | | | ⬜ Unread | |
 
 ---
 
@@ -123,9 +123,9 @@
 
 ## Open Problems & Ideas
 
-> Running notes on questions that emerge from reading. These are seeds for research directions.
+> Running notes on questions that emerge from reading. For personal reflection and research inspriation.
 
-- [ ] **[Problem title]**: Brief description of the open question and which papers surfaced it.
+- 🟧 **[Problem title]**: Brief description of the open question and which papers surfaced it.
 
 ---
 
