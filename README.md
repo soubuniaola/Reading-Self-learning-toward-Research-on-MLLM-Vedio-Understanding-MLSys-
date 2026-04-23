@@ -24,8 +24,8 @@
 
 | Track | Papers Planned | Papers Read | Status |
 |---|---|---|---|
-| Track 1 — Multimodal Foundations | 8 | 0 | 🔜 Not started |
-| Track 2 — Video Understanding | 8 | 0 | 🔜 Not started |
+| Track 1 — Multimodal Foundations | 8 | 0 | 🚀 In Progress |
+| Track 2 — Video Understanding | 8 | 0 | 🚀 In Progress|
 | Track 3 — ML Systems | 6 | 0 | 🔜 Not started |
 | PALM Lab Papers | 6+ | 0 | 🔜 Not started | 
 
@@ -37,7 +37,7 @@
 
 | Paper | Authors | Venue | Year | Link | Status | Notes |
 |---|---|---|---|---|---|---|
-| Learning Transferable Visual Models From Natural Language Supervision (CLIP) | Radford et al. | ICML | 2021 | [Paper](https://arxiv.org/abs/2103.00020) | ⬜ Unread | |
+| Learning Transferable Visual Models From Natural Language Supervision (CLIP) | Radford et al. | ICML | 2021 | [Paper](https://arxiv.org/abs/2103.00020) | 📖 Reading  |[Notes](notes/multimodal/CLIP_2021.md) |
 | Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision (ALIGN) | Jia et al. | ICML | 2021 | [Paper](https://arxiv.org/abs/2102.05918) | ⬜ Unread | |
 | Florence: A New Foundation Model for Computer Vision | Yuan et al. | arXiv | 2021 | [Paper](https://arxiv.org/abs/2111.11432) | ⬜ Unread | |
 
@@ -63,9 +63,9 @@
 
 | Paper | Authors | Venue | Year | Link | Status | Notes |
 |---|---|---|---|---|---|---|
-| Two-Stream Convolutional Networks for Action Recognition in Videos | Simonyan & Zisserman | NeurIPS | 2014 | [Paper](https://arxiv.org/abs/1406.2199) | ⬜ Unread | |
-| Temporal Segment Networks (TSN) | Wang et al. | ECCV | 2016 | [Paper](https://arxiv.org/abs/1608.00859) | ⬜ Unread | |
-| SlowFast Networks for Video Recognition | Feichtenhofer et al. | ICCV | 2019 | [Paper](https://arxiv.org/abs/1812.03982) | ⬜ Unread | |
+| Two-Stream Convolutional Networks for Action Recognition in Videos | Simonyan & Zisserman | NeurIPS | 2014 | [Paper](https://arxiv.org/abs/1406.2199) | 📖 Reading | |
+| Temporal Segment Networks (TSN) | Wang et al. | ECCV | 2016 | [Paper](https://arxiv.org/abs/1608.00859) | 📖 Reading | |
+| SlowFast Networks for Video Recognition | Feichtenhofer et al. | ICCV | 2019 | [Paper](https://arxiv.org/abs/1812.03982) | 📖 Reading | |
 
 ### Stage 2 — Transformer-Based Video Models
 
