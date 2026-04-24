@@ -37,15 +37,15 @@
 
 | Paper | Authors | Venue | Year | Link | Status | Notes |
 |---|---|---|---|---|---|---|
-| Learning Transferable Visual Models From Natural Language Supervision (CLIP) | Radford et al. | ICML | 2021 | [Paper](https://arxiv.org/abs/2103.00020) | 📖 Reading  |[Notes](notes/multimodal/CLIP_2021.md) |
-| Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision (ALIGN) | Jia et al. | ICML | 2021 | [Paper](https://arxiv.org/abs/2102.05918) | ⬜ Unread | |
-| Florence: A New Foundation Model for Computer Vision | Yuan et al. | arXiv | 2021 | [Paper](https://arxiv.org/abs/2111.11432) | ⬜ Unread | |
+| Learning Transferable Visual Models From Natural Language Supervision (CLIP) | Radford et al. | ICML | 2021 | [Paper](https://arxiv.org/abs/2103.00020) | ✅ Done  |[Notes](notes/multimodal/CLIP_2021.md) |
+| Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision (ALIGN) | Jia et al. | ICML | 2021 | [Paper](https://arxiv.org/abs/2102.05918) | ✅ Done | |
+| Florence: A New Foundation Model for Computer Vision | Yuan et al. | arXiv | 2021 | [Paper](https://arxiv.org/abs/2111.11432) | ✅ Done | [Notes](notes/multimodal/Florence_2021.md)
 
 ### Stage 2 — Generative Multimodal Models
 
 | Paper | Authors | Venue | Year | Link | Status | Notes |
 |---|---|---|---|---|---|---|
-| Flamingo: a Visual Language Model for Few-Shot Learning | Alayrac et al. | NeurIPS | 2022 | [Paper](https://arxiv.org/abs/2204.14198) | ⬜ Unread | |
+| Flamingo: a Visual Language Model for Few-Shot Learning | Alayrac et al. | NeurIPS | 2022 | [Paper](https://arxiv.org/abs/2204.14198) | 📖 Reading | [Notes](notes/multimodal/Flamingo_2022.md)|
 | Visual Instruction Tuning (LLaVA) | Liu et al. | NeurIPS | 2023 | [Paper](https://arxiv.org/abs/2304.08485) | ⬜ Unread | |
 
 ### Stage 3 — PALM Lab: Multimodal Papers
