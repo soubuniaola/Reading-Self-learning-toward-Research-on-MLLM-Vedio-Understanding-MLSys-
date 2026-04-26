@@ -45,8 +45,8 @@
 
 | Paper | Authors | Venue | Year | Link | Status | Notes |
 |---|---|---|---|---|---|---|
-| Flamingo: a Visual Language Model for Few-Shot Learning | Alayrac et al. | NeurIPS | 2022 | [Paper](https://arxiv.org/abs/2204.14198) | 📖 Reading | [Notes](notes/multimodal/Flamingo_2022.md)|
-| Visual Instruction Tuning (LLaVA) | Liu et al. | NeurIPS | 2023 | [Paper](https://arxiv.org/abs/2304.08485) | ⬜ Unread | |
+| Flamingo: a Visual Language Model for Few-Shot Learning | Alayrac et al. | NeurIPS | 2022 | [Paper](https://arxiv.org/abs/2204.14198) | ✅ Done | [Notes](notes/multimodal/Flamingo_2022.md)|
+| Visual Instruction Tuning (LLaVA) | Liu et al. | NeurIPS | 2023 | [Paper](https://arxiv.org/abs/2304.08485) | 📖 Reading | |
 
 ### Stage 3 — PALM Lab: Multimodal Papers
 
